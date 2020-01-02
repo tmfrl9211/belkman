@@ -1,0 +1,36 @@
+<div class=sss></div>
+<div class=sss></div>
+<div class=sss></div>
+<div class=sss></div>
+
+$(".sss").click(function()
+{
+    $(this).index();
+}
+
+
+<div class=sss></div>
+<a href="" id=dd>
+<div class=sss></div>
+<a href="" class=bb>
+<div class=sss></div>
+<div class=sss></div>
+
+$(".sss").click(function()
+{
+   var $tt=$(".sss");
+   $tt.index(this)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
